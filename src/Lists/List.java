@@ -15,4 +15,6 @@ public interface List <T> {
 
 
     public boolean remove(T t);
+    
+    public void showAll();
 }
