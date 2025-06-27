@@ -59,6 +59,7 @@ public class AnimalList implements List<Animal> {
                 return true;
             }
         }
+        return false;
     }
 }
     
